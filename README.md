@@ -1,7 +1,19 @@
 # 💫About Me :
 - 🔭 I’m currently a Web Developer
 - 🌱 I'm a junior and majored in Information System at UIT (University of Information Technology)
-- 👯 I’m looking to collaborate on ReactJS related web project
+- Over 1 year of experience in programming with good communication and quick learning skills
+- Strengths: Front-end technology and Back-end web application development
+- Proficiency in HTML, CSS, JavaScript
+- Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model
+- Thorough under standing of React.js (functional component) and it score principles
+- Familiarity with newer specifications of EcmaScript
+- Experience with data structure libraries
+- Familiarity with RESTful APIs
+- Comprehension and familiarity with: JavaScript (ReactJS, ExpressJS), MySQL, SQL Server, JSON, API, Docker
+- Proficient use of source code management tools: GIT
+- Proficiency in operating systems: Linux (Ubuntu, OSX), Windows
+- Ability to learn and apply new technology quickly
+- Current working location: Ho Chi Minh city, Viet Nam
 
 
 ## 🌐Socials
